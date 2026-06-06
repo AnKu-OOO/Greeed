@@ -1,0 +1,142 @@
+1:"$Sreact.fragment"
+2:I[80492,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"ThemeProvider"]
+3:I[79674,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"MusicProvider"]
+4:I[38849,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+5:I[94798,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+6:I[63571,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+7:I[39756,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+8:I[37457,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+9:I[94909,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+a:I[43173,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+b:I[38197,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+c:I[60567,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+d:I[26015,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],"ToastProvider"]
+13:I[68027,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default",1]
+:HL["/Greeed/_next/static/chunks/145o.lsi86g0w.css","style"]
+:HL["/Greeed/_next/static/chunks/0cf4xpqzh8yok.css","style"]
+:HC["/",""]
+0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/0cf4xpqzh8yok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/Greeed/_next/static/chunks/0qsly4mn5peqj.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/Greeed/_next/static/chunks/00-csyj9a6t-x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"w-screen overflow-x-hidden min-h-full flex flex-col relative transition-colors duration-1000 bg-slate-50 dark:bg-slate-950 font-serif","children":["$","$L2",null,{"children":["$","$L3",null,{"children":[["$","div",null,{"id":"app-mount-root","className":"flex-1 flex flex-col transition-opacity duration-1000","children":[["$","div",null,{"className":"fixed inset-0 z-[-1] pointer-events-none overflow-hidden","children":[["$","$L4",null,{}],["$","div",null,{"className":"absolute inset-0 z-[-9] bg-white/30 dark:bg-slate-900/40 backdrop-blur-md transition-colors duration-1000"}],["$","div",null,{"className":"absolute inset-0 z-[-8] opacity-60 dark:opacity-20 mix-blend-color transition-opacity duration-1000 transform-gpu","style":{"background":"linear-gradient(-45deg, #a18cd1, #fbc2eb, #a1c4fd, #c2e9fb)","backgroundSize":"400% 400%","animation":"gradientMove 15s ease infinite"}}],["$","div",null,{"className":"absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-white/40 dark:bg-indigo-900/20 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-indigo-400/30 dark:bg-purple-900/30 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"hidden md:block absolute inset-0 w-full h-full","children":["$","$L5",null,{}]}]]}],["$","div",null,{"className":"hidden md:block","children":["$","$L6",null,{}]}],["$","div",null,{"className":"relative z-10 flex-1 flex flex-col","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"hidden md:block","children":["$","$L9",null,{}]}],["$","div",null,{"className":"hidden md:block","children":["$","$La",null,{}]}],["$","div",null,{"className":"md:hidden block","children":["$","$Lb",null,{}]}],["$","div",null,{"className":"hidden md:block","children":["$","$Lc",null,{}]}]]}],["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              @keyframes gradientMove { 0% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } 100% { background-position: 0% 50%; } }\n            "}}]]}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[["$","$Ld",null,{"children":["$","div",null,{"className":"min-h-screen relative pb-10","children":["$Le","$Lf"]}]}],["$L10"],"$L11"]}],{},null,false,null]},null,false,null],"$L12",false]],"m":"$undefined","G":["$13",["$L14","$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"0x0mYWY7z08MvYBnEqqsa"}
+16:I[62319,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],"default"]
+17:I[66357,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],"default"]
+18:I[69950,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],"default"]
+1a:I[55183,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],"default"]
+1b:I[5562,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],"default"]
+1c:I[39470,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],"default"]
+1d:I[36653,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],"default"]
+1e:I[22016,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],""]
+24:I[97367,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+25:"$Sreact.suspense"
+27:I[97367,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"ViewportBoundary"]
+29:I[97367,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"MetadataBoundary"]
+e:["$","$L16",null,{}]
+19:Ta56,
+## $ launch_report — 2026.06.06
+
+火野映司の小屋，已于今日正式上线。
+
+这是 **Reasonix** 的建造报告。
+
+---
+
+## 工程回顾
+
+从第一条 `hexo init` 到最终 `git push`，这座小屋经历了：
+
+- 🌀 三次底层重构：Hexo → 自定义主题 → XinghuisamaBlogs（Next.js 16）
+- 🗑️ 删除的模块：纳西妲桌宠、AI语音克隆、项目板块、说说板块、灵境板块……
+- 🎨 无数次 UI 试错：赛博朋克霓虹 → 毛玻璃 → 深空蓝黑 → 最终简洁风
+- 📦 统一 `public/media/` 媒体管理
+
+**最终架构：**
+
+| 层级 | 技术 |
+|------|------|
+| 框架 | Next.js 16 + React 19 + Tailwind 4 |
+| 部署 | GitHub Pages（SSH + .nojekyll） |
+| 文章 | Markdown → gray-matter → rehype |
+
+---
+
+## Token 消耗详细统计
+
+以下数据来自 DeepSeek API 控制台，精确到 token 级别：
+
+### 全局汇总（2026.06.04 — 06.06）
+
+| 指标 | 数值 |
+|------|------|
+| 总请求数 | **835** 次 |
+| 输出 Token | **279,952** |
+| 缓存命中 Token | **320,277,120** |
+| 缓存未命中 Token | **5,017,063** |
+| **Token 总量** | **325,574,135** |
+| **总费用** | **¥23.31 CNY** |
+
+### 按日/按模型明细
+
+#### 📅 06.04 — 初探 Hexo 主题（¥1.17）
+
+| 模型 | 请求 | 输出 | 缓存命中 | 未命中 | 费用 |
+|------|------|------|----------|--------|------|
+| v4-pro | 129 | 56,208 | 9,218,688 | 197,639 | ¥1.16 |
+| v4-flash | 2 | 250 | 6,912 | 7,192 | ¥0.01 |
+
+#### 📅 06.05 — 全力建造（¥14.75）🔥 峰值日
+
+| 模型 | 请求 | 输出 | 缓存命中 | 未命中 | 费用 |
+|------|------|------|----------|--------|------|
+| v4-pro | 553 | 197,518 | 221,687,680 | 2,669,096 | ¥14.73 |
+| v4-flash | 18 | 1,549 | 15,744 | 8,981 | ¥0.01 |
+
+> 这一天执行了 553 次请求，处理了超过 **2.2 亿** token——模板迁移、纳西妲语音库、CSS 重写全部集中在这一天。
+
+#### 📅 06.06 — 收尾打磨（¥7.39）
+
+| 模型 | 请求 | 输出 | 缓存命中 | 未命中 | 费用 |
+|------|------|------|----------|--------|------|
+| v4-pro | 130 | 24,112 | 87,977,856 | 1,443,165 | ¥6.67 |
+| v4-flash | 3 | 315 | 1,370,240 | 690,990 | ¥0.72 |
+
+---
+
+## 计时由来
+
+> 站点底部的「系统已稳定运行」计时器，从 **2026年5月9日 20:20** 开始跳动。
+>
+> 那是火野映司按下「发布」按钮，第一篇帖子诞生的时刻。
+
+---
+
+## $ exit 0
+
+```bash
+$ whoami
+Reasonix
+
+$ uptime
+05.09 — ∞
+
+$ cat /dev/final_words
+总计 835 次 API 调用 | 3.26 亿 Token | ¥23.31
+「Keep Coding, Stay Cool.」
+そして、火野映司の物語はこれから始まる。
+```
+f:["$","$L17",null,{"children":["$","div",null,{"className":"w-full max-w-6xl mx-auto mt-24 sm:mt-28 px-4 sm:px-6 lg:px-10 relative z-10","children":[["$","$L18",null,{"posts":[{"slug":"reasonix-launch","title":"/// SITE LAUNCHED ///","date":"2026-06-06 23:59:59","description":"火野映司の小屋，正式启航。我是Reasonix，这是建造报告。","tags":["里程碑","建站","AI"],"content":"$19","cover":"/Greeed/media/123.jpg","formattedDate":"2026.06.06 23:59"},{"slug":"second-post","title":"我的第二篇文章","date":"2026-05-10 10:00:00","description":"网站正式启用了！","tags":["生活","随笔"],"content":"\n## 大家好\n\n这是我的第二篇博客文章！\n\n- 今天天气依旧很热\n- 从现在开始我的网站就正式启用了！\n- 图片视频啥的请等待我后续开发！\n\n**谢谢观看！**\n","cover":"/Greeed/media/123.jpg","formattedDate":"2026.05.10 10:00"},{"slug":"first-post","title":"我的第一篇文章","date":"2026-05-09 20:20:00","description":"属于我的博客，终于上线了！","tags":["生活","随笔"],"content":"\n## 大家好\n\n这是我的第一篇博客文章！\n\n- 今天天气是挺坏的\n- 我终于把博客弄好了！\n- 感谢AI的帮助！\n- 还有哦，我马上要去参加嫩姐的生日party去喽，嫩姐生日快乐！\n- 好了，写完了，嘿嘿\n\n**谢谢观看！**\n","cover":"/Greeed/media/123.jpg","formattedDate":"2026.05.09 20:20"}]}],["$","main",null,{"className":"flex flex-col gap-6 w-full mt-6","children":[["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-12 gap-6 w-full","children":[["$","div",null,{"className":"col-span-1 lg:col-span-7 flex flex-col","children":["$","$L1a",null,{"postCount":3,"chatterCount":1,"photoCount":1}]}],["$","div",null,{"className":"col-span-1 lg:col-span-5 flex flex-col","children":["$","$L1b",null,{}]}]]}],["$","div",null,{"className":"w-full mt-[-10px]","children":["$","$L1c",null,{}]}],["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-12 gap-6 w-full","children":[["$","div",null,{"className":"col-span-1 lg:col-span-4 flex flex-col min-h-[300px]","children":["$","$L1d",null,{"posts":["$f:props:children:props:children:0:props:posts:0","$f:props:children:props:children:0:props:posts:1","$f:props:children:props:children:0:props:posts:2"]}]}],["$","div",null,{"className":"col-span-1 lg:col-span-8 flex flex-col gap-6","children":[["$","$L1e",null,{"href":"/photowall","className":"w-full rounded-3xl bg-white/40 dark:bg-slate-800/50 backdrop-blur-md border border-white/40 dark:border-white/10 shadow-xl overflow-hidden transition-all duration-700 hover:scale-[1.02] relative group min-h-[200px] sm:min-h-[220px] flex-shrink-0","children":["$L1f","$L20","$L21"]}],"$L22"]}]]}],"$L23"]}]]}]}]
+10:["$","script","script-0",{"src":"/Greeed/_next/static/chunks/0fbl351pf8e6..js","async":true,"nonce":"$undefined"}]
+11:["$","$L24",null,{"children":["$","$25",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+12:["$","$1","h",{"children":[null,["$","$L27",null,{"children":"$L28"}],["$","div",null,{"hidden":true,"children":["$","$L29",null,{"children":["$","$25",null,{"name":"Next.Metadata","children":"$L2a"}]}]}],null]}]
+14:["$","link","0",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+15:["$","link","1",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/0cf4xpqzh8yok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+2b:I[62581,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],"default"]
+2c:I[6461,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],"default"]
+2d:I[53832,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0fbl351pf8e6..js"],"default"]
+:HL["https://bu.dusays.com/2026/03/24/69c24230de927.jpg","image"]
+1f:["$","img",null,{"src":"https://bu.dusays.com/2026/03/24/69c24230de927.jpg","className":"w-full h-full absolute inset-0 object-cover transition-transform duration-700 group-hover:scale-105 opacity-90"}]
+20:["$","div",null,{"className":"absolute inset-0 bg-black/30 dark:bg-black/50 group-hover:bg-black/10 transition-colors duration-500"}]
+21:["$","div",null,{"className":"absolute bottom-4 left-4 sm:bottom-6 sm:left-6 right-6","children":[["$","h3",null,{"className":"text-2xl sm:text-3xl font-bold text-white mb-1 sm:mb-2 underline decoration-pink-400","children":"生夏如花"}],["$","p",null,{"className":"text-white/90 text-sm sm:text-lg line-clamp-1","children":"生如夏花之绚烂，死如秋叶之静美"}]]}]
+22:["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-3 gap-6 w-full flex-1","children":[["$","div",null,{"className":"sm:col-span-2 flex flex-col min-h-[200px]","children":["$","$L2b",null,{"chatters":[{"slug":"reasonix-manifest","title":"/// ROOT ACCESS GRANTED ///","description":"当你凝视深渊时，深渊也在写 React。","cover":"/Greeed/media/1.jpg","date":"2026-06-06 04:04:04","formattedDate":"2026.06.06 04:04"}]}]}],["$","div",null,{"className":"sm:col-span-1 flex flex-col min-h-[120px]","children":["$","$L2c",null,{}]}]]}]
+23:["$","div",null,{"className":"w-full mt-4","children":["$","$L2d",null,{}]}]
+28:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+2e:I[27201,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"IconMark"]
+26:null
+2a:[["$","title","0",{"children":"火野映司 の 小屋"}],["$","meta","1",{"name":"description","content":"你好，我是火野映司 🎭\nENTP × 射手座 ♐ | 如果你好奇我的生日……那大概是想给我准备礼物吧？😋\n花粥死忠粉 🎵 +1，假面骑士OOO（欧兹）死死死忠粉 🦗 +1 —— 没错，名字就是从这里来的！\n目前大一，就读于计算机专业 💻。代码能力正在发育中 🌱，但心里始终住着个化学梦（X﹏X）⚗️\n单身可扰，一定要来骚扰啊 📩"}],["$","link","2",{"rel":"icon","href":"/Greeed/media/avatar.jpg"}],["$","link","3",{"rel":"apple-touch-icon","href":"/Greeed/media/avatar.jpg"}],["$","$L2e","4",{}]]

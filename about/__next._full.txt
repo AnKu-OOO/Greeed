@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:I[80492,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"ThemeProvider"]
+3:I[79674,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"MusicProvider"]
+4:I[38849,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+5:I[94798,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+6:I[63571,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+7:I[39756,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+8:I[37457,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+9:I[94909,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+a:I[43173,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+b:I[38197,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+c:I[60567,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default"]
+11:I[68027,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"default",1]
+:HL["/Greeed/_next/static/chunks/145o.lsi86g0w.css","style"]
+:HL["/Greeed/_next/static/chunks/0cf4xpqzh8yok.css","style"]
+:HC["/",""]
+:HL["/Greeed/_next/static/chunks/15cahw4d8-wp1.css","style"]
+:HL["/Greeed/_next/static/chunks/0-y7.kz1~5qzw.css","style"]
+0:{"P":null,"c":["","about"],"q":"","i":false,"f":[[["",{"children":["about",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/0cf4xpqzh8yok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/Greeed/_next/static/chunks/0qsly4mn5peqj.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/Greeed/_next/static/chunks/00-csyj9a6t-x.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"h-full antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","body",null,{"className":"w-screen overflow-x-hidden min-h-full flex flex-col relative transition-colors duration-1000 bg-slate-50 dark:bg-slate-950 font-serif","children":["$","$L2",null,{"children":["$","$L3",null,{"children":[["$","div",null,{"id":"app-mount-root","className":"flex-1 flex flex-col transition-opacity duration-1000","children":[["$","div",null,{"className":"fixed inset-0 z-[-1] pointer-events-none overflow-hidden","children":[["$","$L4",null,{}],["$","div",null,{"className":"absolute inset-0 z-[-9] bg-white/30 dark:bg-slate-900/40 backdrop-blur-md transition-colors duration-1000"}],["$","div",null,{"className":"absolute inset-0 z-[-8] opacity-60 dark:opacity-20 mix-blend-color transition-opacity duration-1000 transform-gpu","style":{"background":"linear-gradient(-45deg, #a18cd1, #fbc2eb, #a1c4fd, #c2e9fb)","backgroundSize":"400% 400%","animation":"gradientMove 15s ease infinite"}}],["$","div",null,{"className":"absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-white/40 dark:bg-indigo-900/20 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-indigo-400/30 dark:bg-purple-900/30 blur-[100px] rounded-full z-[-7] md:mix-blend-overlay"}],["$","div",null,{"className":"hidden md:block absolute inset-0 w-full h-full","children":["$","$L5",null,{}]}]]}],["$","div",null,{"className":"hidden md:block","children":["$","$L6",null,{}]}],["$","div",null,{"className":"relative z-10 flex-1 flex flex-col","children":["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","div",null,{"className":"hidden md:block","children":["$","$L9",null,{}]}],["$","div",null,{"className":"hidden md:block","children":["$","$La",null,{}]}],["$","div",null,{"className":"md:hidden block","children":["$","$Lb",null,{}]}],["$","div",null,{"className":"hidden md:block","children":["$","$Lc",null,{}]}]]}],["$","style",null,{"suppressHydrationWarning":true,"dangerouslySetInnerHTML":{"__html":"\n              @keyframes gradientMove { 0% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } 100% { background-position: 0% 50%; } }\n            "}}]]}]}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$Ld","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$Le",{},null,false,null]},null,false,"$@f"]},null,false,null],"$L10",false]],"m":"$undefined","G":["$11",["$L12","$L13"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"0x0mYWY7z08MvYBnEqqsa"}
+15:I[97367,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+19:I[97367,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"ViewportBoundary"]
+1b:I[97367,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"MetadataBoundary"]
+d:["$","$L8",null,{}]
+e:["$","$1","c",{"children":["$L14",[["$","link","0",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/15cahw4d8-wp1.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/0-y7.kz1~5qzw.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/Greeed/_next/static/chunks/00qz7b5h6-q33.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/Greeed/_next/static/chunks/0c8sjjyuk-7qi.js","async":true,"nonce":"$undefined"}]],["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}]
+18:[]
+f:"$W18"
+10:["$","$1","h",{"children":[null,["$","$L19",null,{"children":"$L1a"}],["$","div",null,{"hidden":true,"children":["$","$L1b",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1c"}]}]}],null]}]
+12:["$","link","0",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/145o.lsi86g0w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+13:["$","link","1",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/0cf4xpqzh8yok.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1d:I[62319,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/00qz7b5h6-q33.js","/Greeed/_next/static/chunks/0c8sjjyuk-7qi.js"],"default"]
+1e:I[66357,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/00qz7b5h6-q33.js","/Greeed/_next/static/chunks/0c8sjjyuk-7qi.js"],"default"]
+1f:T1fc5,
+            .prose h1 { font-size: 1.8rem !important; font-weight: 900 !important; margin-bottom: 1.2rem !important; margin-top: 2rem !important; line-height: 1.3 !important; color: inherit !important; }
+            .prose h2 { font-size: 1.5rem !important; font-weight: 800 !important; margin-bottom: 1rem !important; margin-top: 1.5rem !important; color: inherit !important; }
+            .prose h3 { font-size: 1.2rem !important; font-weight: 700 !important; margin-bottom: 0.8rem !important; color: inherit !important; }
+            .prose p { font-size: 0.95rem !important; line-height: 1.75 !important; color: inherit !important; }
+            
+            .prose a { color: #6366f1 !important; text-decoration: none !important; font-weight: 600 !important; border-bottom: 1px dashed #6366f1 !important; transition: all 0.3s ease !important; }
+            .prose a:hover { color: #4f46e5 !important; border-bottom-style: solid !important; background-color: rgba(99, 102, 241, 0.1) !important; padding: 0 0.2rem !important; border-radius: 0.2rem !important; }
+            .dark .prose a { color: #818cf8 !important; border-bottom-color: #818cf8 !important; }
+            .dark .prose a:hover { color: #a5b4fc !important; background-color: rgba(129, 140, 248, 0.15) !important; }
+
+            .prose ul { list-style-type: disc !important; padding-left: 1.5rem !important; font-size: 0.95rem !important; }
+            .prose ol { list-style-type: decimal !important; padding-left: 1.5rem !important; font-size: 0.95rem !important; }
+            .prose li { display: list-item !important; margin-bottom: 0.5rem !important; }
+            
+            .prose ul ul, .prose ol ul { list-style-type: circle !important; margin-top: 0.25rem !important; margin-bottom: 0.25rem !important; }
+            .prose ol ol, .prose ul ol { list-style-type: lower-alpha !important; margin-top: 0.25rem !important; margin-bottom: 0.25rem !important; }
+            
+            /* 🌟 删除线强制展现 */
+            .prose s, .prose del { text-decoration-line: line-through !important; opacity: 0.6; }
+
+            /* 🌟 引用块专属果冻极客风样式补丁 */
+            .prose blockquote {
+              border-left: 4px solid #6366f1 !important;
+              background-color: rgba(99, 102, 241, 0.05) !important;
+              padding: 1rem 1.5rem !important;
+              margin: 1.5rem 0 !important;
+              border-radius: 0 1.25rem 1.25rem 0 !important;
+              font-style: italic !important;
+              color: #64748b !important;
+              quotes: none !important; /* 强制移除 Tailwind 原生的丑陋大引号 */
+            }
+            .prose blockquote p {
+              margin: 0 !important; 
+              color: inherit !important;
+            }
+            /* 🌟 彻底杀掉 Tailwind Typography 生成的前后伪元素引号！ */
+            .prose blockquote p::before,
+            .prose blockquote p::after {
+              display: none !important;
+              content: none !important;
+            }
+            
+            .dark .prose blockquote {
+              border-left-color: #818cf8 !important;
+              background-color: rgba(129, 140, 248, 0.1) !important;
+              color: #94a3b8 !important;
+            }
+            
+            /* 🌟 果冻极客风代码字体：更圆滑、更饱满！大圆角拉满！ */
+            .prose pre {
+              background-color: #282c34 !important; color: #abb2bf !important;
+              padding: 1rem !important; border-radius: 1.25rem !important;
+              overflow-x: auto !important; box-shadow: inset 0 0 10px rgba(0,0,0,0.3) !important;
+              margin-top: 1rem !important; margin-bottom: 1rem !important;
+            }
+            
+            .prose pre code, .prose p code, .prose li code { 
+              font-family: ui-rounded, 'Quicksand', 'Nunito', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Source Code Pro', Menlo, Monaco, Consolas, monospace !important;
+              font-variant-ligatures: contextual !important;
+              font-weight: 500 !important;
+              letter-spacing: 0.02em !important;
+            }
+            
+            .prose pre code { 
+              background-color: transparent !important; 
+              padding: 0 !important; 
+              color: inherit !important; 
+              font-size: 0.85em !important; 
+            }
+            
+            .prose code::before, .prose code::after { content: none !important; }
+            
+            .prose p code, .prose li code { 
+              background-color: rgba(99, 102, 241, 0.1) !important; color: #6366f1 !important; 
+              padding: 0.2rem 0.4rem !important; border-radius: 0.5rem !important; font-size: 0.85em !important; 
+            }
+            .dark .prose p code, .dark .prose li code { background-color: rgba(99, 102, 241, 0.2) !important; color: #818cf8 !important; }
+            
+            /* 🌟 确保前台生成的 <br> 占据真实的垂直空间 */
+            .prose br { display: block !important; content: "" !important; margin-top: 0.5em !important; }
+
+            .prose img { display: block !important; margin: 1.5rem auto !important; border-radius: 1rem !important; box-shadow: 0 10px 30px rgba(0,0,0,0.1) !important; max-width: 100% !important; height: auto !important; }
+
+            /* 🌟 Atom One Dark 顶级补丁 */
+            .prose pre code .hljs-comment, .prose pre code .hljs-quote { color: #5c6370 !important; font-style: italic !important; }
+            .prose pre code .hljs-doctag, .prose pre code .hljs-keyword, .prose pre code .hljs-formula { color: #c678dd !important; }
+            .prose pre code .hljs-keyword.type_, .prose pre code .hljs-type { color: #c678dd !important; } 
+            .prose pre code .hljs-section, .prose pre code .hljs-name, .prose pre code .hljs-selector-tag, .prose pre code .hljs-deletion, .prose pre code .hljs-subst { color: #e06c75 !important; }
+            .prose pre code .hljs-literal { color: #56b6c2 !important; }
+            .prose pre code .hljs-string, .prose pre code .hljs-regexp, .prose pre code .hljs-addition, .prose pre code .hljs-attribute, .prose pre code .hljs-meta-string { color: #98c379 !important; }
+            .prose pre code .hljs-built_in, .prose pre code .hljs-class .hljs-title, .prose pre code .hljs-title.class_ { color: #e6c07b !important; } 
+            .prose pre code .hljs-attr, .prose pre code .hljs-variable, .prose pre code .hljs-template-variable, .prose pre code .hljs-selector-class, .prose pre code .hljs-selector-attr, .prose pre code .hljs-selector-pseudo, .prose pre code .hljs-number { color: #d19a66 !important; }
+            .prose pre code .hljs-symbol, .prose pre code .hljs-bullet, .prose pre code .hljs-link, .prose pre code .hljs-meta, .prose pre code .hljs-selector-id, .prose pre code .hljs-title, .prose pre code .hljs-title.function_ { color: #61aeee !important; } 
+
+            @media (min-width: 768px) {
+              .prose h1 { font-size: 3rem !important; font-weight: 950 !important; margin-bottom: 2rem !important; margin-top: 3rem !important; line-height: 1.1 !important; }
+              .prose h2 { font-size: 2.2rem !important; margin-bottom: 1.5rem !important; margin-top: 2rem !important; }
+              .prose h3 { font-size: 1.5rem !important; margin-bottom: 1rem !important; }
+              .prose p { font-size: 1.15rem !important; line-height: 1.85 !important; }
+              
+              .prose ul, .prose ol { padding-left: 2rem !important; font-size: 1.1rem !important; }
+              
+              .prose pre { padding: 1.25rem !important; margin-top: 1.5rem !important; margin-bottom: 1.5rem !important; border-radius: 1.5rem !important; }
+              .prose pre code { font-size: 0.9em !important; }
+              .prose p code, .prose li code { padding: 0.2rem 0.4rem !important; font-size: 0.9em !important; border-radius: 0.375rem !important;}
+              .prose img { margin: 2rem auto !important; border-radius: 2rem !important; box-shadow: 0 20px 50px rgba(0,0,0,0.15) !important; }
+            }
+          14:["$","div",null,{"className":"min-h-screen relative pb-20","children":[["$","$L1d",null,{}],["$","$L1e",null,{"children":["$","main",null,{"className":"w-[95%] md:w-[90%] max-w-4xl mx-auto mt-24 md:mt-28 relative z-10","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$1f"}}],"$L20"]}]}]]}]
+21:I[13632,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/00qz7b5h6-q33.js","/Greeed/_next/static/chunks/0c8sjjyuk-7qi.js"],"default"]
+20:["$","$16",null,{"fallback":["$","div",null,{"className":"h-96 flex items-center justify-center text-slate-500 font-bold animate-pulse","children":"正在载入档案..."}],"children":["$","$L21",null,{"contentHtml":"<h2>你好，我是火野映司 🎭</h2>\n<p><strong>ENTP × 射手座 ♐</strong></p>\n<p>如果你好奇我的生日……那大概是想给我准备礼物吧？😋</p>\n<hr>\n<h3>🎵 花粥死忠粉</h3>\n<p>听花粥的第一天起就出不去了，她的每一首歌我都会唱。</p>\n<h3>🦗 假面骑士OOO 死死死忠粉</h3>\n<p>没错，名字「火野映司」就是从这里来的。如果你也喜欢假面骑士，我们已经是朋友了。</p>\n<h3>💻 计算机专业 · 大一在读</h3>\n<p>代码能力正在发育中 🌱，但心里始终住着个化学梦（X﹏X）⚗️</p>\n<h3>📬 欢迎交流</h3>\n<p>单身可扰，一定要来骚扰啊 📩</p>","coverImage":"/Greeed/media/123.jpg","activities":[{"id":"posts-reasonix-launch.md","type":"文章","title":"/// SITE LAUNCHED ///","date":"2026-06-06T15:59:59.000Z","url":"/posts/reasonix-launch"},{"id":"posts-second-post.md","type":"文章","title":"我的第二篇文章","date":"2026-05-10T02:00:00.000Z","url":"/posts/second-post"},{"id":"posts-first-post.md","type":"文章","title":"我的第一篇文章","date":"2026-05-09T12:20:00.000Z","url":"/posts/first-post"}]}]}]
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+22:I[27201,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"IconMark"]
+17:null
+1c:[["$","title","0",{"children":"火野映司 の 小屋"}],["$","meta","1",{"name":"description","content":"你好，我是火野映司 🎭\nENTP × 射手座 ♐ | 如果你好奇我的生日……那大概是想给我准备礼物吧？😋\n花粥死忠粉 🎵 +1，假面骑士OOO（欧兹）死死死忠粉 🦗 +1 —— 没错，名字就是从这里来的！\n目前大一，就读于计算机专业 💻。代码能力正在发育中 🌱，但心里始终住着个化学梦（X﹏X）⚗️\n单身可扰，一定要来骚扰啊 📩"}],["$","link","2",{"rel":"icon","href":"/Greeed/media/avatar.jpg"}],["$","link","3",{"rel":"apple-touch-icon","href":"/Greeed/media/avatar.jpg"}],["$","$L22","4",{}]]
