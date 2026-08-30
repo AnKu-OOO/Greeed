@@ -2,4 +2,4 @@
 :HL["/Greeed/_next/static/chunks/0cf4xpqzh8yok.css","style"]
 :HC["/",""]
 :HL["https://bu.dusays.com/2026/03/24/69c24230de927.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"4F_pxPs8yeJ9lnz_YYmTs"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"GmNUlOpq6Xf4O7sRSGpqT"}
