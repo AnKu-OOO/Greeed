@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[62319,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0805~pxy36yae.js","/Greeed/_next/static/chunks/0c8sjjyuk-7qi.js"],"default"]
-3:I[66357,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0805~pxy36yae.js","/Greeed/_next/static/chunks/0c8sjjyuk-7qi.js"],"default"]
+2:I[62319,["/Greeed/_next/static/chunks/02w517avxqtek.js","/Greeed/_next/static/chunks/0re_t5.qevovk.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0805~pxy36yae.js","/Greeed/_next/static/chunks/0_vnee1_s9.hx.js"],"default"]
+3:I[66357,["/Greeed/_next/static/chunks/02w517avxqtek.js","/Greeed/_next/static/chunks/0re_t5.qevovk.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0805~pxy36yae.js","/Greeed/_next/static/chunks/0_vnee1_s9.hx.js"],"default"]
 b:"$Sreact.suspense"
-c:I[13632,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0805~pxy36yae.js","/Greeed/_next/static/chunks/0c8sjjyuk-7qi.js"],"default"]
-d:I[97367,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/chunks/0qsly4mn5peqj.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+c:I[13632,["/Greeed/_next/static/chunks/02w517avxqtek.js","/Greeed/_next/static/chunks/0re_t5.qevovk.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/0805~pxy36yae.js","/Greeed/_next/static/chunks/0_vnee1_s9.hx.js"],"default"]
+d:I[97367,["/Greeed/_next/static/chunks/02w517avxqtek.js","/Greeed/_next/static/chunks/0re_t5.qevovk.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
 :HL["/Greeed/_next/static/chunks/15cahw4d8-wp1.css","style"]
 :HL["/Greeed/_next/static/chunks/0-y7.kz1~5qzw.css","style"]
 4:T1fc5,
@@ -114,11 +114,11 @@ d:I[97367,["/Greeed/_next/static/chunks/0f3jfv8udmr6_.js","/Greeed/_next/static/
               .prose p code, .prose li code { padding: 0.2rem 0.4rem !important; font-size: 0.9em !important; border-radius: 0.375rem !important;}
               .prose img { margin: 2rem auto !important; border-radius: 2rem !important; box-shadow: 0 20px 50px rgba(0,0,0,0.15) !important; }
             }
-          0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative pb-20","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","main",null,{"className":"w-[95%] md:w-[90%] max-w-4xl mx-auto mt-24 md:mt-28 relative z-10","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}]]}],["$L6","$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GmNUlOpq6Xf4O7sRSGpqT"}
+          0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen relative pb-20","children":[["$","$L2",null,{}],["$","$L3",null,{"children":["$","main",null,{"className":"w-[95%] md:w-[90%] max-w-4xl mx-auto mt-24 md:mt-28 relative z-10","children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}]]}],["$L6","$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"YJ1tknDPd43s5Ryq2b0d3"}
 5:["$","$b",null,{"fallback":["$","div",null,{"className":"h-96 flex items-center justify-center text-slate-500 font-bold animate-pulse","children":"正在载入档案..."}],"children":["$","$Lc",null,{"contentHtml":"<h2>你好，我是火野映司 🎭</h2>\n<p><strong>ENTP × 射手座 ♐</strong></p>\n<p>如果你好奇我的生日……那大概是想给我准备礼物吧？😋</p>\n<hr>\n<h3>🎵 花粥死忠粉</h3>\n<p>听花粥的第一天起就出不去了，她的每一首歌我都会唱。</p>\n<h3>🦗 假面骑士OOO 死死死忠粉</h3>\n<p>没错，名字「火野映司」就是从这里来的。如果你也喜欢假面骑士，我们已经是朋友了。</p>\n<h3>💻 计算机专业 · 大一在读</h3>\n<p>代码能力正在发育中 🌱，但心里始终住着个化学梦（X﹏X）⚗️</p>\n<h3>📬 欢迎交流</h3>\n<p>单身可扰，一定要来骚扰啊 📩</p>","coverImage":"/Greeed/media/123.jpg","activities":[{"id":"posts-reasonix-launch.md","type":"文章","title":"/// SITE LAUNCHED ///","date":"2026-06-06T15:59:59.000Z","url":"/posts/reasonix-launch"},{"id":"posts-second-post.md","type":"文章","title":"我的第二篇文章","date":"2026-05-10T02:00:00.000Z","url":"/posts/second-post"},{"id":"posts-first-post.md","type":"文章","title":"我的第一篇文章","date":"2026-05-09T12:20:00.000Z","url":"/posts/first-post"}]}]}]
 6:["$","link","0",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/15cahw4d8-wp1.css","precedence":"next"}]
 7:["$","link","1",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/0-y7.kz1~5qzw.css","precedence":"next"}]
 8:["$","script","script-0",{"src":"/Greeed/_next/static/chunks/0805~pxy36yae.js","async":true}]
-9:["$","script","script-1",{"src":"/Greeed/_next/static/chunks/0c8sjjyuk-7qi.js","async":true}]
+9:["$","script","script-1",{"src":"/Greeed/_next/static/chunks/0_vnee1_s9.hx.js","async":true}]
 a:["$","$Ld",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
 e:null
