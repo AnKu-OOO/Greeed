@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[79697,["/Greeed/_next/static/chunks/02w517avxqtek.js","/Greeed/_next/static/chunks/0sayuks5stp7t.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/13xnh6qxsm5b7.js","/Greeed/_next/static/chunks/0_vnee1_s9.hx.js"],"default"]
-3:I[97367,["/Greeed/_next/static/chunks/02w517avxqtek.js","/Greeed/_next/static/chunks/0sayuks5stp7t.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+2:I[79697,["/Greeed/_next/static/chunks/02w517avxqtek.js","/Greeed/_next/static/chunks/02s5ozsqwdbhx.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js","/Greeed/_next/static/chunks/13xnh6qxsm5b7.js","/Greeed/_next/static/chunks/0_vnee1_s9.hx.js"],"default"]
+3:I[97367,["/Greeed/_next/static/chunks/02w517avxqtek.js","/Greeed/_next/static/chunks/02s5ozsqwdbhx.js","/Greeed/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
 :HL["/Greeed/_next/static/chunks/0-y7.kz1~5qzw.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/0-y7.kz1~5qzw.css","precedence":"next"}],["$","script","script-0",{"src":"/Greeed/_next/static/chunks/13xnh6qxsm5b7.js","async":true}],["$","script","script-1",{"src":"/Greeed/_next/static/chunks/0_vnee1_s9.hx.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"vXon7QmWjTjeAil2il7L1"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/Greeed/_next/static/chunks/0-y7.kz1~5qzw.css","precedence":"next"}],["$","script","script-0",{"src":"/Greeed/_next/static/chunks/13xnh6qxsm5b7.js","async":true}],["$","script","script-1",{"src":"/Greeed/_next/static/chunks/0_vnee1_s9.hx.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HczSh-b7gqVdffYGor4TE"}
 5:null
